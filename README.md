@@ -36,3 +36,6 @@ I use "Bootstraps Forms" for the forms. It has 3 "Text Input Box" for "Name", "E
 [Google Fonts](https://fonts.google.com/?sidebar.open&selection.family=Caveat:wght@400;700|Coda|Cookie|Homemade+Apple|Lilita+One|Open+Sans|Russo+One|Sacramento)
 
 [w3School](https://www.w3schools.com/howto/default.asp)
+
+#### Copyright
+©Atima Bennett
