@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand  {
+    font-family: 'Vollkorn SC', serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-left: 0px;
+}
+
+#navbarNavAltMarkup a:hover {
+    color: #7bc6f8;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+#navbarSupportedContent ul {
+    margin-right: 20px;
+    margin-left: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+
+h1 {
+    font-family: 'Vollkorn SC', serif;
+    font-size: 16px;
+    color: #494848;
+}
+
+h5 {
+    font-family: 'Vollkorn SC', serif;
+    font-size: 16px;
+    color: #494848;
+    
+}
+
+
+h6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: #494848;
+    font-weight: bold;
+    
+}
+
+a:hover img.facebook {
+    display: grid;
+}
+
+a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: #494848;
+
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: #494848;
+}
