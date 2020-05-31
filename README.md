@@ -31,10 +31,7 @@ I created logo for this website. The rectangle and the line unterneath represent
 I use "Bootstraps Forms" for the forms. It has 3 "Text Input Box" for "Name", "Email" and "Message".
 
 ## Resources
+[Bootstrap](https://getbootstrap.com/docs/4.5/components/alerts/)
 
-#### Bootstrap 
- [a link](https://getbootstrap.com/docs/4.5/components/alerts/)
- 
-#### Google Fonts
-[a link](https://fonts.google.com/?sidebar.open&selection.family=Caveat:wght@400;700|Coda|Cookie|Homemade+Apple|Lilita+One|Open+Sans|Russo+One|Sacramento)
+[Google Fonts](https://fonts.google.com/?sidebar.open&selection.family=Caveat:wght@400;700|Coda|Cookie|Homemade+Apple|Lilita+One|Open+Sans|Russo+One|Sacramento)
 
