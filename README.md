@@ -29,3 +29,12 @@ I created logo for this website. The rectangle and the line unterneath represent
   <img width="452" alt="Screen Shot 2020-05-31 at 3 24 17 PM" src="https://user-images.githubusercontent.com/64511825/83364796-00468c00-a361-11ea-819d-6a901ced78e9.png">
 
 I use "Bootstraps Forms" for the forms. It has 3 "Text Input Box" for "Name", "Email" and "Message".
+
+## Resources
+
+#### Bootstrap 
+ [a link](https://getbootstrap.com/docs/4.5/components/alerts/)
+ 
+#### Google Fonts
+[a link](https://fonts.google.com/?sidebar.open&selection.family=Caveat:wght@400;700|Coda|Cookie|Homemade+Apple|Lilita+One|Open+Sans|Russo+One|Sacramento)
+
